@@ -1,0 +1,391 @@
+---
+layout: archive
+title: Membership
+---
+
+EPISCOPUS scholars are interested in the role of bishops & secular clergy in medieval society. Membership is currently *gratis* and includes updates on CFPs of interest to scholars doing research on medieval clergy, and an invitation to an annual business meeting at the International Congress on Medieval Studies in Kalamazoo, Michigan.
+
+<a href="https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform">Click here</a> to join EPISCOPUS.
+
+### Member Directory
+
+- [Claire Adams](https://harvard.academia.edu/EmilyClaireAdeleAdams){:target=_blank}, Harvard University (USA), claireadams@fas.harvard.edu
+- William Aird, The University of Edinburgh (UK), William.M.Aird@ed.ac.uk
+- Richard Allen, St John’s College, Oxford (UK), richard.allen@sjc.ox.ac.uk
+- Raquel Alonso Álvarez, Universidad de Oviedo (Spain), raquelaa@uniovi.es
+- Alexa Amore, Department of Art History and Art, Case Western Reserve University (USA), asa139@case.edu
+- Joel Anderson, Cornell University (USA), jda86@cornell.edu
+- [Antonio Antonetti](https://unisa-it.academia.edu/AntonioAntonetti){:target=_blank}, Università degli studi di Salerno (Italia), antonio.antonetti@live.it
+- Greta G. Austin, University of Puget Sound (USA), ggaustin@ups.edu
+- Christine Axen, Boston University (USA), caxen@bu.edu
+- Michele Baitieri, The University of Nottingham, Department of History / PhD Candidate (UK), michele.baitieri@nottingham.ac.uk
+- James Barnaby, University of East Anglia (UK), jamesbarnaby1453@gmail.com
+- Aneilya Barnes, Coastal Carolina University (USA), abarnes@coastal.edu
+- Christine Barralis, Université de Lorraine (France), christine.barralis@univ-lorraine.fr
+- Julia Barrow, University of Leeds (UK), J.S.Barrow@leeds.ac.uk.
+- Richard E. Barton, University of North Carolina at Greensboro (USA), rebarton@uncg.edu
+- Thomas Barton, University of San Diego (USA), barton@sandiego.edu
+- [Ian Bass](https://mmu.academia.edu/IanBass){:target=_blank}, Manchester Metropolitan University (England), ian.l.bass@stu.mmu.ac.uk
+- Hendrik Baumbach,  (Germany), hendrik.baumbach@staff.uni-marburg.de
+- [Christopher Bellitto](www.kean.edu/~cbellitt){:target=_blank}, Kean University (United States), cbellitt@kean.edu
+- Stephen Bennett, Queen Mary, University of London (UK), bennett_stephen876@btinternet.com
+- [Sabine Berger](http://www.centrechastel.paris-sorbonne.fr/membres/sabine-berger){:target=_blank}, Sorbonne Université (Institut d'Art et Archéologie) (France), sabine.aude.berger@gmail.com
+- Adam Bishop, Independent scholar (Canada), ambishop@gmail.com
+- [Lisa Bitel](http://www-bcf.usc.edu/~bitel/){:target=_blank}, University of Southern California (USA), bitel@usc.edu
+- Winston E. Black, Assumption College (USA), w.black@assumption.edu
+- Daniel Blanchard, Portland State University (USA), dblanch@pdx.edu
+- Mary Blanchard, Ave Maria University ( US), mary.blanchard@avemaria.edu
+- Gordon Blennemann, Friedrich-Alexander-Universität Erlangen-Nürnberg (Germany), gordon.blennemann@gesch.phil.uni-erlangen.de
+- Shane Bobrycki, Harvard University (USA), sbobryck@fas.harvard.edu
+- Sveinung Boye, University of Gothenburg (Sweden), sveinung.boye@gu.se
+- Delphine Boyer-Gardner, Université de Poitiers, Centre d’Etudes Supérieures de Civilisation Médiévale (France), d.boyer.gardner@gmail.com
+- Bruce Brasington, West Texas A&amp;M University (USA), bbrasington@mail.wtamu.edu
+- Jackie Brooks, Portland State University (USA), jlb2@pdx.edu
+- Lee Brooks, University of Manchester (UK), lee.brooks@postgrad.manchester.ac.uk
+- George Hardin Brown, Stanford University (USA), brown@stanford.edu
+- Thomas Brown, University of Edinburgh (United Kingdom), t.s.brown@ed.ac.uk
+- Lindsay Bryan, Memorial University (Canada), lbryan@mun.ca
+- Andrew Buck, Queen Mary University of London (UK), andrewdbuck1987@googlemail.com
+- Jan K. Bulman, Auburn University-Montgomery (USA), jbulman1@mail.aum.edu
+- Michael Burger, Auburn University – Montgomery (USA), mburger1@aum.edu
+- Pieter Byttebier, Ghent University (Belgium), pieter.byttebier@ugent.be
+- Edward Caddy, Queen Mary, University of London (United Kingdom), e.j.caddy@qmul.ac.uk
+- William Campbell, University of Pittsburgh at Greensburg (USA), whc7@pitt.edu
+- Daniel Rico Camps, Universidad Autónoma de Barcelona (Spain), Daniel.Rico@uab.es
+- Peter Carlson, California Lutheran University (USA), pcarlson@callutheran.edu
+- Charles Carroll, Brown University (USA), charles_carroll@brown.edu
+- [Albert Cassanyes Roig](https://portalrecerca.csuc.cat/orcid/0000-0002-6046-9201){:target=_blank}, Universitat de Lleida (Spain), acassanyes@gmail.com
+- Jae-keong Chang, University of Edinburgh (UK), cjaekg@gmail.com
+- Alice Chapman, Grand Valley State University (USA), chapmali@gvsu.edu
+- John Cherry,  (UK), Johnccherry555@gmail.com
+- Julie Christenson, University of Missouri (USA), jgcrmd@mail.missouri.edu
+- Anna Minara Ciardi, University of Lund (Sweden), anna_minara.ciardi@teol.lu.se
+- Svend Clausen,  (Denmark), svendclausen@outlook.dk
+- Giulia Co', Istituto Italiano per gli Studi Storici (Italy), giulia.co@libero.it
+- Benedict Coffin, Independent scholar (UK), benedict_coffin@hotmail.com
+- [James Cogbill](https://oxford.academia.edu/JamesCogbill){:target=_blank}, University of Oxford (United Kingdom), jamescogbill@outlook.com
+- Lindsay Cook, Columbia University (United States), lsc2140@columbia.edu
+- Tracey-Anne Cooper, St Johns University (USA), coopert@Stjohns.edu
+- Margaret Cormack, College of Charleston (USA), cormackm@cofc.edu
+- Erika Corradini, University of Winchester (UK), eri.corradini@gmail.com
+- John D. Cotts, Whitman College (USA), cottsjd@whitman.edu
+- Deirdre Couture,  (U.S.A.), deirdreventurella2@hotmail.com
+- [Kalani Craig](http://www.kalanicraig.com){:target=_blank}, Indiana University--Bloomington (USA), craigkl@indiana.edu
+- Joseph Creamer, University of Washington (USA), creamer@uw.edu
+- Catherine Cubitt, University of East Anglia (UK), katy.cubitt@uea.ac.uk
+- Pat Cullum, University of Huddersfield (UK), p.c.cullum@hud.ac.uk
+- Fabio Cusimano, Officina di Studi Medievali, Palermo (Italy), fabioandroidics@gmail.com
+- Yann Dahhaoui,  (), yann.dahhaoui@gmail.com
+- Sigrid Danielson, Grand Valley State University (USA), danielsi@gvsu.edu
+- Adam J. Davis, Denison University (USA), davisaj@denison.edu
+- Virginia Davis, Queen Mary University of London (UK), V.g.davis@qmul.ac.uk
+- [Gianmarco De Angelis](http://www.unipd.it/scheda-personale?key=CEF7B325A749C13061551525019BB8EB; https://unipd.academia.edu/GianmarcoDeAngelis){:target=_blank}, University of Padua (Italy), gianmarco.deangelis@unipd.it
+- Vincent Debiais, EHESS-Paris (France), vincent.debiais@ehess.fr
+- David J. DeFries,  (USA), djdefries@yahoo.com
+- Fabrice Delivré, Université Paris 1 Panthéon-Sorbonne (France), fabrice_delivre@yahoo.fr
+- Deborah Deliyannis, Indiana University (USA), ddeliyan@indiana.edu
+- Courtney DeMayo, Heidelberg University (USA), cdemayo@heidelberg.edu
+- John A. Dempsey, Westfield State College (USA), jdempsey@westfield.ma.edu
+- Chris Dennis,  (UK), ckd390@gmail.com
+- Jennifer Mara DeSilva, Ball State University (USA), jmdesilva@bsu.edu
+- Hollie Devanney, the university of hull (UK), h.devanney@2006.hull.ac.uk
+- Rebecca Devlin, University of Louisville (USA), rebecca.devlin@louisville.edu
+- Kirsten DeVries, Virginia Western Community College (USA), kdevries@virginiawestern.edu
+- Jean-Pierre Devroey, Université libre de Bruxelles (Belgique), jdevroey@ulb.ac.be
+- Francisco Diaz, Universidade Nova de Lisboa/Instituto de Estudos Medievais (Portugal), fdiaz@fcsh.unl.pt
+- Jay Diehl, Long Island University-Post Campus (USA), jay.diehl@gmail.com
+- [Adinel C. Dinca](http://hiphi.ubbcluj.ro/personal/Adinel_Dinca.html){:target=_blank}, Babeș-Bolyai University, Cluj-Napoca (Romania), adinel.dinca@gmail.com
+- Claire Donovan, University of Cambridge, Corpus Christi College (UK), claire.donovan@icloud.com
+- Rowan Dorin, Harvard University (USA), dorin@post.harvard.edu
+- Pablo Dorronzoro Ramírez, Universidad Autónoma de Madrid (Spain), pdorron@gmail.com
+- Penelope Dransart, University of Wales, Lampeter (UK), p.dransart@lamp.ac.uk
+- David Dry, University of Florida (USA), daviddry@ufl.edu
+- Lawrence G. Duggan, University of Delaware (USA), lgjd@udel.edu
+- [Gerald Dyson](https://kcu.academia.edu/GeraldDyson){:target=_blank}, Assistant Professor of History, Kentucky Christian University (USA), gpdyson@kcu.edu
+- Asdis Egilsdottir, University of Iceland (Iceland), asd@hi.is
+- Melodie H. Eichbauer, Florida Gulf Coast University (USA), meichbauer@fgcu.edu
+- Andrea Ejtehadi, Portland State University (U.S.A.), aejtehadi@hotmail.com
+- John Eldevik, Hamilton College (USA), jeldevik@hamilton.edu
+- Jaime Elipe, Universidad de Zaragoza (Spain), jaime.elipe@gmail.com
+- Michael Elliot, Pontifical Institute of Medieval Studies (Canada), michael.d.elliot@gmail.com
+- Rhun Emlyn, Aberystwyth University (UK), rre@aber.ac.uk
+- Maaike Engels, KUL (Belgium), maaike_engels@hotmail.com
+- [Isabel Escandell-Proust](https://sites.google.com/templamedieval.com/templa/qui-sumus/isabel-escandell){:target=_blank}, Universitat de les Illes Balears (Spain), isabel.escandell@uib.es
+- [Gonzalo J. Escudero Manzano](https://orcid.org/0000-0001-7331-1043){:target=_blank}, Complutense University of Madrid (Spain), gonzesc@ucm.es
+- Julia Exarchos, Ghent University (Belgium), julia.exarchos@ugent.be
+- Mário Farelo, Instituto de Estudos Medievais/Centro de Estudos de História Religiosa (Portugal), mario.farelo@netcabo.pt
+- Margot Fassler, Yale University (USA), margot.fassler@yale.edu
+- Gabriela Faundez, University of Miami (USA), gaf70@miami.edu
+- [Michel Fauquier](http://ktema-es-aiei.fr/){:target=_blank}, Poitiers (CESCM) (France), michel.fauquier@orange.fr
+- Jennifer Feltman, University of West Florida (USA), jfeltman@uwf.edu
+- [Chris Ferguson](Aucklandcastle.org){:target=_blank}, Durham University/Auckland Castle Trust (UK), chrisferguson83@gmail.com
+- Paweł Figurski, Uniwersytet Warszawski &amp; University of Notre Dame (Poland / USA), pawel.figurski.uw@gmail.com
+- Sabina Flanagan, University of Adelaide (Australia), sabina.flanagan@adelaide.edu.au
+- Luca Fois, Università degli studi di Pavia (Italy), foisluc@yahoo.it
+- James Foley,  (England), jamesfoley52@hotmail.com
+- Brad Franco, Syracuse University (USA), brfranco@maxwell.syr.edu
+- Ryan Freeburn, Our Lady Seat of Wisdom Academy (Canada), rfreeburn@seatofwisdom.org
+- Elizabeth Freeman, Independent Scholar (UK), freemaneliz@hotmail.com
+- Michael Frost, University of Aberdeen (UK), michael.g.frost@cantab.net
+- Julian Führer, University of Zurich / German Historical Institute (Switzerland / Paris), julian.fuehrer@access.uzh.ch
+- [Judit Gál](https://elte.academia.edu/JuditG%C3%A1l){:target=_blank}, ELTE Eötvös Loránd University, Budapest (Hungary), galjudit88@gmail.com
+- Clemens Gantner, Institut fuer Mittelalterforschung, Austrian Academy of Sciences (Austria), Clemens.gantner@oeaw.ac.at
+- Julian Gardner, University of Warwick (UK), julian.gardner@warwick.ac.uk
+- Jürg Gassmann, Independent (Ireland), jurg.gassmann@gassmannconsulting.com
+- [Evan A. Gatti](http://www.egatti.com/){:target=_blank}, Elon University (USA), egatti@elon.edu
+- Michael H. Gelting, Rigsarkivet (Danish National Archives) and University of Aberdeen (Denmark / UK), mhg@ra.sa.dk
+- Daniel Gerrard, University of Glasgow (UK), d.gerrard.1@research.gla.ac.uk
+- Mary Frances Giandrea, George Mason University (USA), giandrea@comcast.net
+- Kelly Gibson, University of Dallas (USA), kgibson@udallas.edu
+- Sean Gilsdorf, Smith College (USA), sgilsdor@email.smith.edu
+- James Ginther, Saint Louis University (USA), ginthej@slu.edu
+- Helen Gittos, University of Kent (UK), h.b.gittos@kent.ac.uk
+- Dorothy Glass, University at Buffalo, SUNY (USA), glass@buffalo.edu
+- Jason Glenn, University of Southern California (USA), jkglenn@usc.edu
+- Leanne Good, University of California, Los Angeles (USA), lgood@ucla.edu
+- Bernard Gowers, King’s College, London (UK), bernard.gowers@kcl.ac.uk
+- Gregory Grant, Washington State University (), veerybreve@palosdonar.com
+- Ken Grant, University of Texas Pan American (USA), kgrant@utpa.edu
+- Susana Guijarro, Universidad de Cantabria (Spain), guijarrs@unican.es
+- Gregory Halfond, Framingham State University (USA), ghalfond@framingham.edu
+- Louis I. Hamilton, Rutgers University (USA), louis.i.hamilton@njit.edu
+- Sarah Hamilton, University of Exeter (U.K.), S.M.Hamilton@exeter.ac.uk
+- Lindsey Hansen, Indiana University (USA), linghans@indiana.edu
+- Eilidh Harris, University of St Andrews (UK), ep28@st-andrews.ac.uk
+- Melodie Harris, Catholic University of America (USA), 99harris@cua.edu
+- Katherine Harvey, King’s College London (UK), katherine.harvey@kcl.ac.uk
+- Jeffrey Hass, Franciscan University, Austrian Program (Austria), jhass@franciscan.edu
+- Eldbjorg Haug, Univ. i Bergen (Norway), eldbjorg.haug@hi.uib.no
+- Rosemary Hayes, University of York / Canterbury and York Society (UK), hayesmilligan@btinternet.com
+- [Paul Antony Hayward](http://www.lancs.ac.uk/fass/history/profiles/Paul-Hayward/){:target=_blank}, Lancaster University (UK), p.hayward@lancaster.ac.uk
+- Michael Heil, Columbia University (USA), mwh2105@columbia.edu
+- Samantha Kahn Herrick, Syracuse University (USA), sherrick@maxwell.syr.edu
+- Joshua Hevert, Cotton Valley Early College High School (USA), Jhevert@epcc.edu
+- Aaron Hope, University College London (UK), aaron.hope@ucl.ac.uk
+- Philippa Hoskin, University of Lincoln (UK), phoskin@oincoln.ac.uk
+- Robert Houghton, St. Andrews Institute of Medieval Studies (UK), reh6@st-and.ac.uk
+- Sam Howden, University of Lincoln (UK), sam.howden2409@gmail.com
+- Haraldur Hreinsson, University of Muenster (Germany), haraldur.hreinsson@uni-muenster.de
+- Nicholas Hunot,  (USA), nhunot@indiana.edu
+- Ortwin Huysmans, KU Leuven (Belgium), ortwinhuysmans@gmail.com
+- [Juan Santiago Iglesias Sanlés](https://fcsh-unl.academia.edu/JuanSantiagoIglesiasSanles){:target=_blank}, Universidade Nova de Lisboa (Spain), a57431@campus.fcsh.unl.pt
+- [Cosmin Ignat](http://bisericifortificatesasesti.blogspot.ro/){:target=_blank}, Lucian Blaga University of Sibiu (Romania), cosmingnt@gmail.com
+- Per Ingesman, Department of Church History, Aarhus University (Denmark), PI@teo.au.dk
+- Callum Jamieson, University of Glasgow (UK), callumajamieson@btinternet.com
+- Marko Jerkovic, University of Zagreb (Croatia), canonicus.cathedralis@gmail.com
+- Phyllis G. Jestice, College of Charleston (USA), jesticepg@cofc.edu
+- Jochen Johrendt, Bergische Universität Wuppertal (Deutschland), johrendt@uni-wuppertal.de
+- Anna Trumbore Jones, Lake Forest College (USA), jones@lakeforest.edu
+- Christopher Neville Jones, University of Canterbury (New Zealand), chris.jones@canterbury.ac.nz
+- Marc Sureda I Jubany, Museu Episcopal de Vic (Spain), msureda@museuepiscopalvic.com
+- Véronique Julerot, LAMOP / Université de Paris 1 – CNRS (France), veronique.julerot@wanadoo.fr
+- Melissa Julian-Jones, Cardiff University (UK), melissa.julianjones@gmail.com
+- [David Kalhous](https://is.muni.cz/person/merowech?lang=en){:target=_blank}, Masaryk-University (Czech Republic), david.kalhous@phil.muni.cz
+- Flora Karagianni, European Center of Byzantine and Post-Byzantine Monuments (Greece), aflorentia20@hotmail.com
+- Kathryn Karrer, Independent Scholar (United States), kathrynkarrer1@comcast.net
+- Cheryl L Kaufman, Univeristy of Texas at Austin (USA), kaufman@mail.utexas.edu
+- [Ryan Kemp](https://aber.academia.edu/RyanKemp ){:target=_blank}, Aberystwyth University  (UK), ryankemp92@outlook.com
+- Damien Kempf, University of Bristol (UK), damien.kempf@bristol.ac.uk
+- David Kennett, University of Stratford (UK), david.kennett@stratford.ac.uk
+- Amanda Kenney, University of Missouri - Columbia (USA), Alkbnd@mail.missouri.edu
+- Elizabeth Keohane-Burbridge, Fordham University / Footnoting History (USA), elkeohane@fordham.edu
+- Frederik Keygnaert, University of Leuven (Belgium), frederik.keygnaert@gmail.com
+- Jennifer P. Kingsley, Johns Hopkins University (USA), jkingsley@jhu.edu
+- Kathryn A Klar, University of California, Berkeley (USA), kkestrel@berkeley.edu
+- Christine Kleinjung, Johannes Gutenberg-Universität (Germany), kleinjun@uni-mainz.de
+- Eric Knibbs, Williams College (USA), eric.c.knibbs@williams.edu
+- Mira Kofkin, Binghamton University (USA), mkofkin1@binghamton.edu
+- Nicole Koopman, Saint Louis University (United States), nicole.koopman@slu.edu
+- Lech Kościelak, Societas Scientiarum Plocensis (Poland), lechkoscielak@gmail.com
+- Radosław Kotecki, Kazimierz Wielki University in Bydgoszcz (Poland), Radoslaw_Kotecki@op.pl
+- Ewelina Kowalczyk, Warsaw University (Poland), entoria@wp.eu
+- [Rutger Kramer](https://www.ru.nl/english/people/kramer-r/){:target=_blank}, Radboud University Nijmegen (Netherlands), R.Kramer@let.ru.nl
+- Thomas M. Krüger, Universität Augsburg (Germany), thomas.krueger@phil.uni-augsburg.de
+- [Nina Kühnle](http://www.histsem.uni-kiel.de/de/abteilungen/regionalgeschichte/mitarbeiter/nina-kuehnle-m-a){:target=_blank}, University of Kiel (Germany), nina.kuehnle@email.uni-kiel.de
+- Justyna Kuska, Institute of Art of Polish Academy of Sciences (Poland), kuska.justyna@gmail.com
+- Birgit Kynast, Johannes Gutenberg-Universität Mainz (Germany), kynast@uni-Mainz.de
+- Samuel  Lane, University of Oxford (UK), samuel.lane@chch.ox.ac.uk
+- Katie Jo LaRiviere, University of Oregon (United States), katiejol@uoregon.edu
+- [Andrew Larsen](aelarsen.wordpress.com){:target=_blank}, University of Wisconsin-Milwaukee (United States), aelarsen@mac.com
+- Thomas Lecaque, Grand View University (USA), tlecaque@grandview.edu
+- [Hee Sook Lee-Niinioja](http://heesooklee-niinioja.weebly.com/){:target=_blank}, Independent (Finland), leeheesook@hotmail.com
+- Charlotte Lewandowski, University of Birmingham (UK), C.Lewandowski@bham.ac.uk
+- Conrad Leyser, Worcester College (UK), conrad.leyser@worc.ox.ac.uk
+- Kyle Lincoln, Webster University (USA), kyle.c.lincoln@gmail.com
+- Kelly Linss, Portland State University (USA), klinss@pdx.edu
+- Michael Lipari, Fordham University (USA), mlipari3@fordham.edu
+- [Jelle Lisson](http://www.arts.kuleuven.be/info/medievalhistory/eng/jellelisson){:target=_blank}, University of Leuven (Belgium), Jelle.Lisson@arts.kuleuven.be
+- Yin Liu,  (China), beidaliuyin@gmail.com
+- Andrea Livini, University of Salamanca (Spain), alivini@yahoo.it
+- Mercedes López-Mayán, University of Santiago de Compostela (Spain), mercedeslmn@gmail.com
+- Ralf Lützelschwab, Freie Universität Berlin (Germany), luetzel@zedat.fu-berlin.de
+- Jonathan Lyon, University of Chicago (USA), jlyon@uchicago.edu
+- Jacek Maciejewski, Kazimierz Wielki University (Poland), jmac@ukw.edu.pl
+- Tony Madu, Fedral University of Technology Owerri (Nigeria), Globaby4true27@yahoo.com
+- Jehangir Malegam, George Washington University (USA), jmalegam@yahoo.com
+- Anthony Mansfield, Keele University (UK), a.c.mansfield@keele.ac.uk
+- Alain Marchandisse, Université de Liège/Fonds de la Recherche scientifique/FNRS (Belgium), alain.marchandisse@ulg.ac.be
+- Areli Marina, University of Illinois, Urbana-Champaign (USA), arelimarina@gmail.com
+- Steve Marritt, University of Glasgow (UK), Stephen.Marritt@glasgow.ac.uk
+- Timothy Martin, St. Cloud State University (United States), TSMartin6968@gmail.com
+- [Francesco Massetti](https://www.geschichte.uni-wuppertal.de/personen/mittelalterliche-geschichte/francesco-massetti.html){:target=_blank}, Bergische Universität Wuppertal (Germany), framass88@hotmail.com
+- Christophe Masson, University of Oxford (United Kingdom), christophemassonbe@yahoo.fr
+- Yossi Maurey, The Hebrew University of Jerusalem (Israel), ymaurey@mscc.huji.ac.il
+- Ian Patrick McDole, University of Oxford (United Kingdom), ipmcdole@gmail.com
+- Ian Patrick  McDole, University of Oxford  (United Kingdom), ipmcdole@gmail.com
+- [John McEwan](www.digisig.org){:target=_blank}, Saint Louis University (USA), john.a.mcewan@gmail.com
+- Shaun David McGuinness, Bangor University, Wales (UK), hip402@bangor.ac.uk
+- Alison McHardy, University of Nottingham (UK), alison.mchardy365@gmail.com
+- [Madeline McMahon](http://history.princeton.edu/people/madeline-mcmahon){:target=_blank}, Princeton University (United States), mcmcmahon@princeton.edu
+- Sara Mederos, University of Lincoln (UK), sdmederos@gmail.com
+- Brigitte Meijns, Katholieke Universiteit Leuven, Fund of Scientific Research-Flanders, F.W.O.-Vlaanderen (Belgium), brigitte.meijns@arts.kuleuven.ac.be
+- Matthew Mesley, University of Zürich (Switzerland), MM.Mesley@gmail.com
+- Andreas Meyer, Philipps-Universität Marburg (Germany), meyera@staff.uni-marburg.de
+- Andre Miatello, Universidade Federal de Minas Gerais (Brazil), andremiatello@gmail.com
+- Peter Michelli, University of California&#8211;Berkeley (USA), pm15@berkeley.edu
+- Joseph Ewan Millan-Cole, University of Sydney (Australia), treuga22@gmail.com
+- Maureen C. Miller, University of California-Berkeley (USA), mcmiller@uclink.berkeley.edu
+- Gustavo Montagna von Zeschau, Universidad de Buenos Aires (Argentina), gusmontagnavz@gmail.com
+- Terje Breigutu Moseng, University of Bergen (Norway), terje.moseng@ahkr.uib.no
+- Rev. Peter Mottola, Catholic University of America (USA), peter.mottola@gmail.com
+- [John Munns](https://www.hist.cam.ac.uk/directory/dr-john-munns){:target=_blank}, Magdalene College, Cambridge (UK), jmm89@cam.ac.uk
+- Craig M. Nakashian, Texas A&amp;M University-Texarkana (USA), craig.nakashian@tamut.edu
+- Jadranka Neralic, University of Zagreb (Croatia), neralic@yahoo.it
+- Andrea Vanina Neyra, CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas) (Argentina), avaninaneyra@yahoo.com.ar
+- Ben Nilson, Okanagan University College (Canada), bnilson@ouc.bc.ca
+- Bertil Nilsson, University of Gothenburg (Sweden), bertil.nilsson@rel.gu.se
+- Nathanaël Nimmegeers, École des hautes études hispaniques et ibériques, Casa de Velázquez, Madrid (Spain), n.nimmegeers@orange.fr
+- William North, Carleton College (USA), wnorth@carleton.edu
+- Maureen O’Brien, St. Cloud State University (USA), mmobrien@stcloudstate.edu
+- Hailey Ogle, St Andrews Institute for Mediaeval Studies (UK), Haileyogle1122@gmail.com
+- [John S. Ott](http://web.pdx.edu/~ott/){:target=_blank}, Portland State University (USA), ottj@pdx.edu
+- Milton Pacheco, Diocesis of Coimbra and University of Coimbra (Portugal), miltondpacheco@yahoo.com.br
+- Eric Palazzo, Université de Poitiers (France), eric.palazzo@mshs.univ-poitiers.fr
+- Brian Pavlac, King’s College (USA), bapavlac@kings.edu
+- [Thierry Pécout](https://www.univ-st-etienne.fr/fr/lem-cercor.html){:target=_blank}, Université Jean Monnet (Saint-Étiennne) (France), thierry.pecout@univ-st-etienne.fr
+- Sébastien Peigné, Université de Rennes 2 (PhD student) (France), sebast.peigne@gmail.com
+- Michael Peixoto, New York University (USA), mjp346@nyu.edu
+- Fernand Peloux, Université Toulouse II le Mirail- Framespa (France), fernand.peloux@gmail.com
+- Alexander Peplow, Oxford (United Kingdom), alexander.peplow@merton.ox.ac.uk
+- Mariel Perez, Universidad de Buenos Aires – CONICET (Argentina), perez_mariel@yahoo.com.ar
+- Anthony Perron, Loyola Marymount University (USA), aperron@lmu.edu
+- David Peterson, Universidad de Burgos (Spain), dpeterson@ubu.es
+- Brad Phillis, University of Tennessee-Knoxville (USA), bphillis@vols.utk.edu
+- Emanuele Piazza, Universitá degli Studi di Catania (Italia), emanuele.piazza@unict.it
+- Robert Plummer, None. Private study (England), robert.annplummer@talktalk.net
+- Phyllis E. Pobst, Arkansas State University (USA), ppobst@astate.edu
+- Olga Posazhennikova, Texas Tech University (United States), posazhennikova@gmail.com
+- [Pablo Poveda Arias](https://uni-hamburg.academia.edu/PabloPovedaArias){:target=_blank}, Universität Hamburg (Germany), pablo.poveda.arias@uni-hamburg.de
+- Amanda Power, University of Sheffield (UK), a.power@shef.ac.uk
+- Andrew Rabin, University of Louisville (USA), Andrew.rabin@louisville.edu
+- Manu Radhakrishnan, Princeton University (USA), manurad@yahoo.com
+- Valerie Ramseyer, Wellesley College (USA), vramseye@wellesley.edu
+- Sherry Reames, University of Wisconsin-Madison (USA), slreames@wisc.edu
+- Diane Reilly, Indiana University (USA), dreilly@indiana.edu
+- Thomas Renna, Saginaw Valley State University (USA), renna@svsu.edu
+- Kriston Rennie, University of Queensland (Australia), k.rennie@uq.edu.au
+- Theo Riches, Westfälische Wilhelms-Universität Münster (Germany), theo.riches@uni-muenster.de
+- Bridget Riley, Graduate Centre for Medieval Studies, University of Reading (UK), b.riley@pgr.reading.ac.uk
+- Nathan Ristuccia, University of Chicago (USA), nristucc@gmail.com
+- [Edward Roberts](https://www.liverpool.ac.uk/history/staff/edward-roberts/){:target=_blank}, University of Liverpool (UK), edward.roberts@liverpool.ac.uk
+- [Martin Roberts](https://nottingham.academia.edu/MartinRoberts){:target=_blank}, University of Nottingham (United Kingdom), ahxmor@nottingham.ac.uk
+- John Robison, TOCCUSA (USA), friarjohn00@gmail.com
+- Sophia Rochmes, University of California, Santa Barbara (USA), srochmes@umail.ucsb.edu
+- [Jesús Rodríguez Viejo](https://edinburgh.academia.edu/JesusRodriguezViejo){:target=_blank}, University of Edinburgh (United Kingdom), jrodrig8@ed.ac.uk
+- Euan Roger, Royal Holloway, University of London (UK), Euan.Roger.2007@live.rhul.ac.uk
+- Christof Rolker, Universitat Konstanz (Germany), Christof.Rolker@uni-konstanz.de
+- Jean-Noël Rolland, UdeM – ULg (Canada – Belgique), rollandjeannoel@gmail.com
+- Joëlle Rollo-Koster, University of Rhode Island (USA), joelle@uri.edu
+- Maria do Rosário Morujão, University of Coimbra (Portugal), rmorujao@gmail.com
+- Jonathan Rotondo-McCord, Xavier University of Louisiana (USA), jrotondo@xula.edu
+- Adam Rouse, Keele University (UK), v5j97@students.keele.ac.uk
+- Jay Rubenstein, University of Tenessee (USA), jrubens1@utk.edu
+- Nicolas Ruffini-Ronzani, Facultés Universitaires Notre de la Paix of Namur (Belgium), nruffini@fundp.ac.be
+- David Runciman, University of Cambridge (United Kingdom), dr421@cam.ac.uk
+- Pippa Salonius, Center of Medieval and Renaissance Studies, UCLA (USA), p.salonius@gmail.com
+- Kathryn Salzer, Pennsylvania State University at University Park (USA), kes30@psu.edu
+- Santiaga Hidalgo Sanchez, Université Paris Ouest Nanterre La Defense (France), shidalgosanchez@yahoo.es
+- Gamit Sanjaykumar,  (India ), sanjugamit@gmail.com
+- Anisio M. de Sousa Saraiva, Universidade de Coimbra (Portugal), anisio@sapo.pt
+- Jochen Schenk, German Historical Institute London (UK), schenk@ghil.ac.uk
+- [William Schmidt](n/a){:target=_blank}, Retired/independent Scholar (United States), wschmidt47@yahoo.com
+- [Sybille Schneiders](http://uni-freiburg.academia.edu/SybilleSchneiders){:target=_blank}, Albert-Ludwigs-Universitaet Freiburg (Germany), SybilleE_Schneiders@web.de
+- Steven A. Schoenig, S.J., Saint Louis University (USA), sschoeni@slu.edu
+- Edward Schoolman, University of Nevada, Reno (USA), edwardschoolman@mail-central.com
+- Anja-Lisa Schroll, Bonn University (Germany), lschroll@uni-bonn.de
+- John Scofield, University of Notre Dame (USA), jscofiel@nd.edu
+- Jane Scott, Durham University (UK), jane.scott@durham.ac.uk
+- Joaquín Sedano, Universidad de Navarra (Spain), jsedano@unav.es
+- Neslihan Senocak, Columbia University (USA), nsenocak@columbia.edu
+- Richard Serina, Concordia Seminary (USA), rick.serina@gmail.com
+- Norman Shead, Honorary Research Fellow, University of Glasgow (Great Britain), nandm.s@btinternet.com
+- Erika Sigurdson, Árni Magnússon Institute (Iceland), erikasig@hi.is
+- [Jon Vidar Sigurdsson](https://www.hf.uio.no/iakh/english/people/aca/history/tenured/jonvs/index.html){:target=_blank}, University of Oslo, Department of Archaeology, Conservation and History (Norway), j.v.sigurdsson@iakh.uio.no
+- David Simon, Colby College (USA), dlsimon@colby.edu
+- Stephanie Skenyon, University of Miami (USA), s.skenyon@miami.edu
+- Caroline Smith, Durham University (United Kingdom), c.e.h.smith@durham.ac.uk
+- Milosz Sosnowski, Adam Mickiewicz University (Poland), milosz.sosnowski@gmail.com
+- David S. Spear, Furman University (USA), david.spear@furman.edu
+- Jennifer Speed, University of Dayton, Department of Religious Studies (USA), jspeed1@udayton.edu
+- Nancy Spies,  (United States), snspies@aol.com
+- Daniel Spisso Jr. PhD.,  (United States), daniel@spisso.com
+- [Rebecca Springer](https://oxford.academia.edu/RebeccaSpringer){:target=_blank}, University of Oxford (UK), rebecca.springer@merton.ox.ac.uk
+- Sita Steckel, University of Muenster (Germany), sita.steckel@uni-muenster.de
+- Dale Streeter, Eastern New Mexico University (USA), Dale.Streeter@enmu.edu
+- Blair Sullivan, University of California, Los Angeles (USA), sullivan@humnet.ucla.edu
+- [Marcin Sumowski](https://umk.academia.edu/MarcinSumowski ; http://www.zhkb.umk.pl/sumowski.html){:target=_blank}, Nicolaus Copernicus University in Toruń (Poland), m.sumowski@gmail.com
+- Liz Swedo, University of Minnesota (USA), swed0047@umn.edu
+- Laura Taylor,  (USA), laura.taylor@wmich.edu
+- María Dolores Teijeira Pablos, University of León  (Spain), md.teijeira@unileon.es
+- Julien Théry, Université Paul-Valéry, Montpellier (France), julthery@gmail.com
+- Hugh Thomas, University of Miami (USA), h.thomas@miami.edu
+- Sarah Thomas, University of Hull (UK), s.e.thomas@hull.ac.uk
+- Andrew Thornebrooke, Fordham University (USA), andrew.thornebrooke@gmail.com
+- Ewen Thual, University of Limoges (France), ewen.thual@gmail.com
+- Francesca Tinti, Universidad del Pais Vasco (Spain), francesca_tinti@ehu.es
+- Mike Tomcyzk,  (USA), mike.tomcyzk@gmail.com
+- Elaine Treharne, Stanford University (USA), treharne@stanford.edu
+- Renee R. Trilling, University of Illinois at Urbana-Champaign (USA), trilling@uiuc.edu
+- Nigel Tringham, Keele University (UK), n.j.tringham@keele.ac.uk
+- Jean Truax,  (USA), truax@hal-pc.org
+- Belle Tuten, Juniata College (USA), tuten@juniata.edu
+- Elizabeth Tyler,  (UK), emt1@york.ac.uk
+- Norman Underwood, University of California-Berkeley (USA), nru@berkeley.edu
+- [Lauren Van Nest](http://art.as.virginia.edu/van_nest){:target=_blank}, University of Virginia (United States of America), lv3ye@virginia.edu
+- Steven Vanderputten, Universiteit Gent (Belgium), steven.vanderputten@ugent.be
+- Gerardo Boto Varela, Universitat de Girona (Spain), gerardo.boto@udg.edu
+- Damien Varenne,  (France), varennedamien@yahoo.fr
+- Sally N. Vaughn, University of Houston (USA), snvaughn@sbcglobal.net
+- Clare Vernon, Birkbeck, University of London (UK), c.vernon@bbk.ac.uk
+- Hermínia Vilar, University of Evora (Portugal), hvvilar@hotmail.com
+- Anne Wagner, Université de Franche-Comté (France), amcw@wanadoo.fr
+- Stephen Wagner, Savannah College of Art &amp; Design (USA), swagner@scad.edu
+- Catherine Walden, independent scholar (USA), cew9f@virginia.edu
+- Lydia Walker, University of Tennessee-Knoxville (USA), lwalke39@vols.utk.edu
+- Kathleen Walkowiak, Saint Louis University (USA), kwalkowi@slu.edu
+- Bowman Walton,  (USA), msbwalton@post.harvard.edu
+- Benjamin Wand, Portland State University (USA), benwand@gmail.com
+- Laura Wangerin, Seton Hall University (USA), laura.wangerin@shu.edu
+- Eric Ware, Indiana University (USA), erjware@indiana.edu
+- E.M. Warren,  (UK), e.m.warren@leeds.ac.uk
+- Dominik Waßenhoven, University of Cologne (Germany), dominik@wassenhoven.info
+- Julia Watson, University of Reading (UK), julia@watsonmanor.co.uk
+- J.R. Webb, Bridgewater State University (USA), jrwebb@bridgew.edu
+- Anne-Gaëlle Weber, UQAM (Montréal) (Canada), annegaelleweber@gmail.com
+- [Björn Weiler](www.aber.ac.uk/en/history/staff/bkw/){:target=_blank}, Aberystwyth University (UK), bkw@aber.ac.uk
+- A. Ch. F. Weizmann, Haifa University (Israel), achweiz1@gmail.com
+- Charles West, Sheffield (UK), c.m.west@sheffield.ac.uk
+- Burton Westermeier, Yale University (USA), burton.westermeier@yale.edu
+- Brett Whalen, University of North Carolina, Chapel Hill (USA), bwhalen@email.unc.edu
+- Charlotte Whatley, University of Wisconsin--Madison (USA), Cwhatley@wisc.edu
+- Fiona Whelan, University of Oxford (UK), fiona.whelan@wolfson.ox.ac.uk
+- Tiffany White, University of California, Berkeley (US), tiffany.white@berkeley.edu
+- Victoria Whitworth, Centre for Nordic Studies, University of the Highlands and Islands (UK), victoria.whitworth@uhi.ac.uk
+- [Robert Wiśniewski](http://en.ihuw.pl/institute/about/academic-staff/dr-hab-robert-wisniewski){:target=_blank}, University of Warsaw (Poland), r.wisniewski@uw.edu.pl
+- Teresa Witcombe, Universities of Bristol and Exeter (UK), teresa.witcombe@bristol.ac.uk
+- Anne Marie Wolf, University of Portland (USA), wolf0180@unm.edu
+- Emily Wilson Wood, Clemson University (USA), ekwood13@gmail.com
+- Chris Woolgar, University of Southampton (UK), C.M.Woolgar@soton.ac.uk
+- Matt Wranovix, University of New Haven (USA), mwranovix@newhaven.edu
+- [Guillaume Wymmersch](https://myulg.academia.edu/GuillaumeWymmersch){:target=_blank}, Université de Liège (Belgique), gwymmersch@uliege.be
+- Gustav Zamore, University of Stockholm (Sweden), gustavzamore@gmail.com
