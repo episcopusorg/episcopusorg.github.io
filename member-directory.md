@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Membership
+permalink: /member-directory/
+title: "EPISCOPUS: Membershiup"
 ---
 
 EPISCOPUS scholars are interested in the role of bishops & secular clergy in medieval society. Membership is currently *gratis* and includes updates on CFPs of interest to scholars doing research on medieval clergy, and an invitation to an annual business meeting at the International Congress on Medieval Studies in Kalamazoo, Michigan.
