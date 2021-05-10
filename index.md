@@ -1,5 +1,4 @@
 ---
-layout: homepage
 permalink: /
 title: "EPISCOPUS: "
 ---
