@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: Bylaws
 date: 2013-05-15
 categories: about
