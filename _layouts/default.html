@@ -17,7 +17,7 @@
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
 
 		<nav>
-		  <ul class="nav">
+		  <ul>
 			{% for link in site.data.navigation %}
 			  <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
 			{% endfor %}
