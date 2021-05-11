@@ -7,7 +7,7 @@ title: "EPISCOPUS: "
 ### Recent news
 
 - Join [Episcopus at Kalamazoo 2021](/news)
-- Want a cute little EPS sticker or coffee mug? Visit our EPISCOPUS store; the proceeds help us feed scholars with limited funds at our annual Council meeting.
+- Want a cute little EPS sticker or coffee mug? Visit our [EPISCOPUS store](https://www.redbubble.com/people/epssociety/); the proceeds help us feed scholars with limited funds at our annual Council meeting.
 
 ### About Us
 
