@@ -390,3 +390,12 @@ EPISCOPUS scholars are interested in the role of bishops & secular clergy in med
 - Matt Wranovix, University of New Haven (USA), mwranovix@newhaven.edu
 - [Guillaume Wymmersch](https://myulg.academia.edu/GuillaumeWymmersch){:target=_blank}, Université de Liège (Belgique), gwymmersch@uliege.be
 - Gustav Zamore, University of Stockholm (Sweden), gustavzamore@gmail.com
+
+
+### AutoGenerate
+
+<ul>
+{% for member in site.data.members %}<li>
+ <li>{% if member.url %}<a href="{{ member.url }}">{% endif %}{{ member.first }} {{ member.last }}{% if member.url %}</a>{% endif %}, {{ member.affiliation }} ({{ member.country }}), {{ member.email }}</li>
+</li>{% endfor %}
+
