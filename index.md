@@ -19,8 +19,8 @@ Our <a href="/bylaws/">bylaws</a> are available online. Any other questions abou
 
 ### EPISCOPUS officers:
 
-- **President:** Michael Burger (2015-2018), mburger1@aum.edu
-- **Vice-President:** Evan Gatti (2015-18)
+- **President:** Evan Gatti (2018-2021), episcopussociety@gmail.com
+- **Vice-President:** William Campbell (2018-2021)
 - **Secretary:** Sigrid Danielson (2015-20)
-- **Communications Officer:** Kalani Craig (2015-18)
-- **Councilors:** Deborah Deliyannis (2015-2018), Katy Cubitt (2016-2019), William H. Campbell (2017-2020), Pieter Byttebier (2017-2019), John Ott, Past President (2015-2018)
+- **Communications Officer:**  Kalani Craig (2018-2021)
+- **Councilors:** Katy Cubitt (2016-2019), Kyle Lincoln (2018-2020), Laura Wangering, (2018-2021), Pieter Byttebier (2017-2019), Michael Burger, Past President (2015-2018)
