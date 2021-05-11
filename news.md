@@ -3,18 +3,31 @@ layout: default
 title: News & CFPs
 ---
 
-### Deadline 15 September 2017: The New College Conference on Medieval and Renaissance Studies
+### Episcopus at ICMS/Kalamazoo in 2021 
 
-This conference, held 8-10 March 2018 on the Sarasota campus of New College of Florida (the honors college of the Florida state system), focuses on European and Mediterranean history, literature, art, music and religion from the fourth to the seventeenth centuries that blur methodological, chronological, and geographical boundaries, or that combine subjects and/or approaches in unexpected ways. Abstracts are due 15 Sept 2017, and more information is available on the [conference web site](http://www.newcollegeconference.org)
+#### S352 / Friday, May 14, 1:00 p.m. EDT
 
-### Deadline 31 May 2017: Congreso Obispos y Catedrales. Arte en la Castilla bajomedieval
+Brevia on Bishops and the Secular Clergy 
 
-This conference on bishops and artistic patronage in late medieval Spain will be held 25-27 October 2017 at the Universidad de León. A [CFP](http://institutos.unileon.es/instituto-estudios-medievales/files/2016/05/Obispos-y-catedrales.-Primera-circular.pdf) and the [conference web site](http://obisposycatedrales.weebly.com) have complete submission and attendance information.
-				
-### Deadline 31 March 2017: Episcopus CFP for ICMS Kalamazoo 2018
+For the third year in a row, we propose a lightning-round panel that gives up to 10 scholars ca. 3 minutes each--strictly enforced!--to present informally a current research idea. The audience and session participants will then respond with suggestions about where to take the ideas. This panel, modeled initially on similar successful sessions at the American Historical Association and aims to foster research in its very early stages and to generate paper proposals for the International Congress in 2022.  
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdg2BWp5rAINNP8A-MuUYRWfDb52nAFiq4x4HSwlC74pLIsRw/viewform?embedded=true" width="760" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+This year’s Brevia will include presentations by:
 
-### Deadline 15 April 2017: Episcopus CFP for IMC Leeds 2018
+- William H. Campbell
+- Elizabeth M. Swedo
+- Paweł Figurski
+- Kyle Cooper Lincoln
+- Ingrid Lunnan Nødseth
+- Katherine Clark Walter
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYxNTOZmE7g3UMXbAAZ9o41SJfuWp4_FUqylEi3fjkg6uQYg/viewform?embedded=true" width="760" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+#### Friday, May 14, 11:00 (EDT) / Business Meeting / All Welcome!
+
+#### S442 / Saturday, May 15, 3:00 p.m. EDT
+
+The Preaching of Bishops and Secular Clergy Clerics
+
+Michael Thomas Martin: Dissemination of Knowledge through Pastoral Theology in the Carolingian Period (750–950 CE)
+
+William H. Campbell: “Prelatus, more boni phisici, nunc purgat, nunc ungat”: An Episcopal Preacher’s Vademecum from Late Thirteenth-Century England
+
+Andrew Reeves: The Episcopal Household and Preaching in Thirteenth-Century England

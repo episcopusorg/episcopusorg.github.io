@@ -4,6 +4,8 @@ permalink: /
 title: "EPISCOPUS: "
 ---
 
+### [Episcopus at Kalamazoo 2021](/news)
+
 ### About Us
 
 Established in 2004, EPISCOPUS is an interdisciplinary, scholarly society devoted to fostering the exchange of information and research about the medieval episcopate and secular clergy. This site exists to put us in touch with one another, to publish translated texts concerning medieval bishops for use by students and scholars, and to announce upcoming academic conferences of potential interest to members. We charge no dues or fees, and invite you to add your name to the directory and contribute information to the pages devoted to member publications, texts, and news. We will be updating the information here regularly, and invite members to check the accuracy of our directory information.
