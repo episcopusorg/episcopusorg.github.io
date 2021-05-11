@@ -14,11 +14,19 @@
   <body>
     <div class="wrapper">
       <header>
-        {% if site.logo %}
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
-        {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+		<nav>
+		  <ul class="menu-item">
+			{% for link in site.data.navigation %}<li>
+			  <a href="{{ site.url }}{{ link.url }}">
+				{% if link.image %}<img src="{{ site.url }}/images/{{ link.image }}" alt="teaser" class="teaser">{% endif %}
+				<div class="title">{{ link.title }}</div>
+				{% if link.excerpt %}<p class="excerpt">{{ link.excerpt }}</p>{% endif %}
+			  </a>
+			</li>{% endfor %}
+		  </ul>
+		</nav>
       </header>
       <section>
 		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
