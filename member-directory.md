@@ -12,6 +12,6 @@ EPISCOPUS scholars are interested in the role of bishops & secular clergy in med
 
 <ul>
 {% for member in site.data.members %}<li>
- <li>{% if member.url %}<a href="{{ member.url }}">{% endif %}{{ member.first }} {{ member.last }}{% if member.url %}</a>{% endif %}, {{ member.affiliation }} ({{ member.country }}), {{ member.email }}</li>
+ <li>{% if member.url %}<a href="{{ member.url }}">{% endif %}{{ member.first }} {{ member.last }}{% if member.url %}</a>{% endif %}{% if member.affiliation %}, {{ member.affiliation }}{% endif %}{% if member.country %} ({{ member.country }}){% endif %}{% if member.email %}, {{ member.email }}{% endif %}</li>
 {% endfor %}
 </ul>
