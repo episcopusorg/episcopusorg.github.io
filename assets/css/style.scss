@@ -36,15 +36,16 @@ header li {
     width: 100%;
     float: left;
     background-color:#ffffff;
-    border:1px;
     height:40px;
 	border-top: 1px solid #e5e5e5;
 }
 
 header li:first-child a {
+	border-radius: 0 0 0 0;
 }
 
 header li:last-child a {
+	border-radius: 0 0 0 0;
 }
 
 header ul li a {
@@ -53,6 +54,7 @@ header ul li a {
     display: block;
     text-align: left;
     padding-top: 6px;
+    padding-left:6px;
     height:34px;
 }
 
