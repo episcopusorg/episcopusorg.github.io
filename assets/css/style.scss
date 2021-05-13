@@ -32,6 +32,10 @@ header ul {
 }
 
 header li {
+    border: 0px;
+}
+
+header li {
     display:block;
     width: 100%;
     float: left;
@@ -49,6 +53,7 @@ header li:last-child a {
 }
 
 header ul li a {
+    border:0px;
     line-height: 1;
     font-size: 11px;
     display: block;
