@@ -22,23 +22,88 @@ a:hover, a:active {
     outline:0
 }
 
+#-------nav bar
+
 header ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
+    height:0px;
+    list-style: none;
+    padding: 0;
+    width:100%:
+    background: #ffffff;
 }
 
-header ul li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
+header li {
+    display:block;
+    width: 100%;
+    float: left;
+    background-color:#efefef
 }
 
-/* Change the link color on hover */
-header ul li a:hover {
-  background-color: #555;
-  color: white;
+header li:first-child a {
+}
+
+header li:last-child a {
+}
+
+header ul a {
+    line-height: 1;
+    font-size: 11px;
+    display: block;
+    text-align: center;
+    padding-top: 6px;
+    height:0px;
+}
+
+header ul a:hover, header ul a:focus {
+    color: #9e1f63;
+    background-color: #cdcdcd;
+    font-weight:normal;
+}
+
+header ul a:active {
+}
+
+header ul li + li + li {
+    width:100%;
+}
+
+header ul a strong {
+    font-size: 14px;
+    display: block;
+    color:#222
+}
+
+@media print, screen and (max-width: 960px) {
+    header a small {
+        display:inline
+    }
+
+    header ul {
+	    height:0px;
+        position: absolute;
+        right: 50px;
+        top:52px
+    }
+}
+
+@media print, screen and (max-width: 720px) {
+    header ul, header p.view {
+        position:static
+        width:100%;
+    }
+    header li, header ul li + li + li {
+        width:25%
+    }
+}
+
+@media print, screen and (max-width: 480px) {
+    header ul {
+        position: static;
+	    height:0px;
+        width:99%
+    }
+
+    header li, header ul li + li + li {
+        width:25%
+    }
 }
