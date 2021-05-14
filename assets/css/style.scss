@@ -103,8 +103,10 @@ header ul a strong {
 
 @media print, screen and (max-width: 720px) {
     header ul, header p.view {
-        position:static;
-        width:45%;
+        position: absolute;
+        right: 50px;
+        top:52px;
+        border:0px;
     }
     header li, header ul li + li + li {
         width:25%;
