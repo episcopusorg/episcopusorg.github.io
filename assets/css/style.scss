@@ -31,7 +31,7 @@ header ul {
 header ul {
     list-style: none;
     padding: 0;
-    width:100%;
+    width:100%:
     background: #ffffff;
     border:0px;
     height: 0px;
@@ -68,7 +68,7 @@ header ul li a {
     height:34px;
 }
 
-header ul a:hover, header ul a:focus {
+header ul li a:hover, header ul li a:focus {
     color: #9e1f63;
     background-color: #efefef;
     font-weight:normal;
@@ -90,7 +90,7 @@ header ul a strong {
 
 @media print, screen and (max-width: 960px) {
     header a small {
-        display:inline;
+        display:inline
     }
 
     header ul {
@@ -107,19 +107,6 @@ header ul a strong {
         position:static;
         width:100%;
     }
-    header li, header ul li + li + li {
-        width:25%;
-    }
-}
-
-@media print, screen and (max-width: 480px) {
-    header ul {
-        position: static;
-	    height:0px;
-        width:99%;
-   	 border:0px;
-    }
-
     header li, header ul li + li + li {
         width:25%;
     }
