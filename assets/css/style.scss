@@ -27,7 +27,7 @@ a:hover, a:active {
 header ul {
     list-style: none;
     padding: 0;
-    width:100%:
+    width:100%;
     background: #ffffff;
 }
 
@@ -74,12 +74,12 @@ header ul li + li + li {
 header ul a strong {
     font-size: 14px;
     display: block;
-    color:#222
+    color:#222;
 }
 
 @media print, screen and (max-width: 960px) {
     header a small {
-        display:inline
+        display:inline;
     }
 
     header ul {
