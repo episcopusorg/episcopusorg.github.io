@@ -25,21 +25,14 @@ a:hover, a:active {
 #-------nav bar
 
 header ul {
-    border: 0px;
-}
-
-header ul {
     list-style: none;
     padding: 0;
-    width:100%;
+    width:100%:
     background: #ffffff;
 }
 
 header li {
-    border: 0px;
-}
-
-header li {
+    border:0px;
     display:block;
     width: 100%;
     float: left;
@@ -49,11 +42,9 @@ header li {
 }
 
 header li:first-child a {
-	border-radius: 0 0 0 0;
 }
 
 header li:last-child a {
-	border-radius: 0 0 0 0;
 }
 
 header ul li a {
@@ -61,9 +52,8 @@ header ul li a {
     line-height: 1;
     font-size: 11px;
     display: block;
-    text-align: left;
+    text-align: center;
     padding-top: 6px;
-    padding-left:6px;
     height:34px;
 }
 
@@ -103,6 +93,7 @@ header ul a strong {
 
 @media print, screen and (max-width: 720px) {
     header ul, header p.view {
+        position:static
         position: absolute;
         right: 50px;
         top:52px;
