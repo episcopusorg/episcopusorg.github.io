@@ -7,7 +7,7 @@
 
 - title: 'The Life of St. Gallus, bishop of Clermont-Ferrand'
   century: '6th'
-xs  dates: '(525-551)'
+  dates: '(525-551)'
   info: 'by Gregory of Tours; trans. Ernest Brehaut.'
   url: 'http://www.fordham.edu/halsall/source/greg-stgall.html'
 
@@ -129,7 +129,7 @@ xs  dates: '(525-551)'
   url: 'http://www.fordham.edu/halsall/source/lexworms.html'
   categories: 'Internet Medieval Sourcebook (IMB), Juridical documents)'
 
-- title: 'Peace-pact proclamation (1035-1067) of Drogo, bishop of Therouanne and Count Baldwin V of Flanders
+- title: 'Peace-pact proclamation (1035-1067) of Drogo, bishop of Therouanne and Count Baldwin V of Flanders'
   century: '11th'
   info: 'Trans. O. J. Thatcher and E. H. McNeal, revised with notes by John S. Ott.'
   url: 'http://www.web.pdx.edu/~ott/drogopeace/index.html'
