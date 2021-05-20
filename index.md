@@ -9,9 +9,11 @@ title: "EPISCOPUS: "
 - Join [Episcopus at Kalamazoo 2021](/news)
 - Want a cute little EPS sticker or coffee mug? Visit our [EPISCOPUS store](https://www.redbubble.com/people/epssociety/); the proceeds help us feed scholars with limited funds at our annual Council meeting.
 
-### About Us
+<a href="#" class="myButton">turquoise</a>
 
-<a href="https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform" class="btn-inverse">Become a Member</a>
+[Become a Member](https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform){:.'myButton'}
+
+### About Us
 
 Established in 2004, EPISCOPUS is an interdisciplinary, scholarly society devoted to fostering the exchange of information and research about the medieval episcopate and secular clergy. This site exists to put us in touch with one another, to publish translated texts concerning medieval bishops for use by students and scholars, and to announce upcoming academic conferences of potential interest to members. We charge no dues or fees, and invite you to add your name to the directory and contribute information to the pages devoted to member publications, texts, and news. We will be updating the information here regularly, and invite members to check the accuracy of our directory information.
 
