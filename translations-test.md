@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Texts in Translation
+permalink: /translationtest.html
 ---
 
 ### 3rd Century)
