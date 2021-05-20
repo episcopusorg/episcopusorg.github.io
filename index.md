@@ -9,9 +9,7 @@ title: "EPISCOPUS: "
 - Join [Episcopus at Kalamazoo 2021](/news)
 - Want a cute little EPS sticker or coffee mug? Visit our [EPISCOPUS store](https://www.redbubble.com/people/epssociety/); the proceeds help us feed scholars with limited funds at our annual Council meeting.
 
-<a href="#" class="myButton">turquoise</a>
-
-[Become a Member](https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform){:.'myButton'}
+[Become a Member](https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform){:.myButton}
 
 ### About Us
 
