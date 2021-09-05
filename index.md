@@ -6,7 +6,7 @@ title: "EPISCOPUS: "
 
 ### Recent news
 
-- Join [Episcopus at Kalamazoo 2021](/news)
+- Join [Episcopus at Kalamazoo and Leeds 2022](/news)
 - Want a cute little EPS sticker or coffee mug? Visit our [EPISCOPUS store](https://www.redbubble.com/people/epssociety/); the proceeds help us feed scholars with limited funds at our annual Council meeting.
 
 [Become a Member](https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform){:.myButton}
