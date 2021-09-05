@@ -1,6 +1,7 @@
 ---
 layout: default
 title: News & CFPs
+permalink: /news
 ---
 
 ### Join Episcopus at (ICMS) Kalamazoo and (IMC) Leeds in 2022 
