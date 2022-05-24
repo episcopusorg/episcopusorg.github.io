@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bylaws
+permalink: /bylaws/
 date: 2013-05-15
 categories: about
 ---
