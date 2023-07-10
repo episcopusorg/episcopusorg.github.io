@@ -17,7 +17,7 @@ Established in 2004, EPISCOPUS is an interdisciplinary, scholarly society devote
 
 EPISCOPUS scholars and non-academic members are interested in the role of bishops and secular clergy in medieval society. The Society currently charges no dues, and is open to anyone interested in its subject matter. To become a member of Episcopus and be added to our e-mail distribution list, <a href="https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform">please fill out our membership form</a> (Google form link).
 
-Our <a href="/bylaws/">bylaws</a> are available online. Any other questions about Episcopus should be directed to the current Episcopus President.
+Our [bylaws](/bylaws/) are available online. Any other questions about Episcopus should be directed to the current Episcopus President.
 
 ### EPISCOPUS officers:
 
