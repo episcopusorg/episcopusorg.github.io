@@ -21,8 +21,8 @@ Our <a href="/bylaws/">bylaws</a> are available online. Any other questions abou
 
 ### EPISCOPUS officers:
 
-- **President:** Evan Gatti (2018-2022), episcopussociety@gmail.com
-- **Vice-President:** William Campbell (2018-2022)
+- **President:** William Campbell (2022-2025), episcopussociety@gmail.com
+- **Vice-President:** Kyle Lincoln (2022-2025)
 - **Secretary:** Sigrid Danielson (2015-21)
 - **Communications Officer:**  Kalani Craig (2018-2022)
 - **Councilors:** Laura Wangerin (2018-2022), Kyle C. Lincoln (2018-2021) , Jean-Noël Rolland (2019-2022) , Phillipa Hoskin (2019-2022), Michael Burger, Past President (2015-2018)
