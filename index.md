@@ -23,7 +23,7 @@ Our [bylaws](/bylaws/) are available online. Any other questions about Episcopus
 
 - **President:** William Campbell (2022-2025), episcopussociety@gmail.com
 - **Vice-President:** Kyle Lincoln (2022-2025)
-- **Secretary:** Sigrid Danielson (2015-2021)
+- **Secretary:** Craig Nakashian (2022-2027)
 - **Communications Officer:**  Benjamin Bertrand (2022-2025)
 - **Councilors:**
 - Immediate Past President Council Position (2022-2025): Evan Gatti 
