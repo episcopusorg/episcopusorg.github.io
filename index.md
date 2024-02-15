@@ -26,7 +26,7 @@ Our [bylaws](/bylaws/) are available online. Any other questions about Episcopus
 - **Secretary:** Sigrid Danielson (2015-2021)
 - **Communications Officer:**  Benjamin Bertrand (2022-2025)
 - **Councilors:**
-- *Immediate Past President Council Position (2022-2025): Evan Gatti 
-- *Council Position A (2022-2025): Benjamin Wand
-- *Council Position B (2023-2026): VACANT
-- *Council Position C (2024-2027): Andrew Reeves
+- Immediate Past President Council Position (2022-2025): Evan Gatti 
+- Council Position A (2022-2025): Benjamin Wand
+- Council Position B (2023-2026): VACANT
+- Council Position C (2024-2027): Andrew Reeves
