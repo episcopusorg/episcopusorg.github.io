@@ -8,36 +8,36 @@ We welcome members old and new, and members-yet-to-be, to the following conferen
 
 ### Kalamazoo: Pastoral Care and Secular Clergy
 Thursday, May 9, 1:30 PM, session 83, co-sponsored by the International Medieval Sermon Studies Society. In-person, Sangren Hall 4540.
-Andrea Antonio Verardi (Pontifical Gregorian University - Helsingin Yliopisto), "Pastoral Care in Rome in the Early Middle Ages, V-VII centuries"
-Sarah Jaran (Purdue University), "Theodulf of Orléans' Recusatio: Echoes of the Epitaph of Gregory the Great in Word and Meaning"
-Steven Carter (Independent Scholar), " 'The truth shall set you free': Exhortation and Deprecatory Rhetoric in the Good Parliament Sermon of Thomas Brinton"
+-Andrea Antonio Verardi (Pontifical Gregorian University - Helsingin Yliopisto), "Pastoral Care in Rome in the Early Middle Ages, V-VII centuries"
+-Sarah Jaran (Purdue University), "Theodulf of Orléans' Recusatio: Echoes of the Epitaph of Gregory the Great in Word and Meaning"
+-Steven Carter (Independent Scholar), " 'The truth shall set you free': Exhortation and Deprecatory Rhetoric in the Good Parliament Sermon of Thomas Brinton"
 
 ### Kalamazoo: Holy Bishops: Bishops, the Cult of the Saints, and Holiness in the Medieval World
 Thursday, May 9, 3:30 PM, session 127, co-sponsored by the Hagiography Society. In-person, Sangren 3110.
-Joel D. Anderson (University of Maine), "Sanctifying Clerical Marriage in the Sagas of Bishop Guðmundr Arason"
-John M. Howe (Texas Tech University), "St. Peter Damian as Bishop"
-Jessalynn L. Bird (Saint Mary's College, Notre Dame), "When a Crusade Needs a Martyr-Bishop: The Case of Engelbert, Archbishop of Cologne"
+-Joel D. Anderson (University of Maine), "Sanctifying Clerical Marriage in the Sagas of Bishop Guðmundr Arason"
+-John M. Howe (Texas Tech University), "St. Peter Damian as Bishop"
+-Jessalynn L. Bird (Saint Mary's College, Notre Dame), "When a Crusade Needs a Martyr-Bishop: The Case of Engelbert, Archbishop of Cologne"
 
 ### Kalamazoo: ANNUAL BUSINESS LUNCH
 Friday, May 10, 12:00 noon. All cordially welcome; new and improved food this year!, $15, Student Center 3222.
 The Business Lunch is typically where we plan our conference sessions for the coming year, and we are always looking for fresh ideas. If you have any suggestions for topics, whether you will be at Kalamazoo or not, we invite you to submit them ahead of time to our email address, episcopussociety@gmail.com .
 ### Kalamazoo: Episcopus Twenty Years On: A Roundtable
 Friday, May 10, 1:30 PM, session 262. Reflecting on the state of the field. VIRTUAL. 
-John S. Ott, Portland State Univ.
-Anna Trumbore Jones, Lake Forest College
-Michael Burger, Auburn Univ.–Montgomery
-Evan A. Gatti, Elon University, Department of History & Geography
-Sigrid Danielson, Grand Valley State Univ.
-Neslihan Senocak, Columbia Univ.
+-John S. Ott, Portland State Univ.
+-Anna Trumbore Jones, Lake Forest College
+-Michael Burger, Auburn Univ.–Montgomery
+-Evan A. Gatti, Elon University, Department of History & Geography
+-Sigrid Danielson, Grand Valley State Univ.
+-Neslihan Senocak, Columbia Univ.
 
 ### Leeds: Famine, Crisis, and Exclusion: Bishops and their Communities in the High Medieval Latin West, 10-13th Centuries
 Co-sponsored with the Haskins Society.
 Moderator: Amelia Kennedy (Princeton Theological Seminary)
-Maureen Boyard (Lyons III): "Accommodate or Hold Firm? Bishops and Behavioural Models during Food Crises in the Latin West, 10-12th Centuries."
-Jesse Harrington (Dublin Institute for Advanced Studies): "Hunger for Justice: Conquest, Famine, Authority, and Exclusion in the Continental Latin vitae of Archbishop St. Laurence of Dublin (St. Laurent d'Eu, d. 1180)."
-Héléna Lagreou (University of Cambridge): "Criminal Inclusion and Exclusion through Episcopal Preaching in Pisa: The Visconti Sermons Collection."
+-Maureen Boyard (Lyons III): "Accommodate or Hold Firm? Bishops and Behavioural Models during Food Crises in the Latin West, 10-12th Centuries."
+-Jesse Harrington (Dublin Institute for Advanced Studies): "Hunger for Justice: Conquest, Famine, Authority, and Exclusion in the Continental Latin vitae of Archbishop St. Laurence of Dublin (St. Laurent d'Eu, d. 1180)."
+-Héléna Lagreou (University of Cambridge): "Criminal Inclusion and Exclusion through Episcopal Preaching in Pisa: The Visconti Sermons Collection."
 
-
+---
 
 ## Join Episcopus at (ICMS) Kalamazoo and (IMC) Leeds in 2022 
 
