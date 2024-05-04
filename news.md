@@ -8,9 +8,9 @@ We welcome members old and new, and members-yet-to-be, to the following conferen
 
 ### Kalamazoo: Pastoral Care and Secular Clergy
 Thursday, May 9, 1:30 PM, session 83, co-sponsored by the International Medieval Sermon Studies Society. In-person, Sangren Hall 4540.
--Andrea Antonio Verardi (Pontifical Gregorian University - Helsingin Yliopisto), "Pastoral Care in Rome in the Early Middle Ages, V-VII centuries"
--Sarah Jaran (Purdue University), "Theodulf of Orléans' Recusatio: Echoes of the Epitaph of Gregory the Great in Word and Meaning"
--Steven Carter (Independent Scholar), " 'The truth shall set you free': Exhortation and Deprecatory Rhetoric in the Good Parliament Sermon of Thomas Brinton"
++ Andrea Antonio Verardi (Pontifical Gregorian University - Helsingin Yliopisto), "Pastoral Care in Rome in the Early Middle Ages, V-VII centuries"
++ Sarah Jaran (Purdue University), "Theodulf of Orléans' Recusatio: Echoes of the Epitaph of Gregory the Great in Word and Meaning"
++ Steven Carter (Independent Scholar), " 'The truth shall set you free': Exhortation and Deprecatory Rhetoric in the Good Parliament Sermon of Thomas Brinton"
 
 ### Kalamazoo: Holy Bishops: Bishops, the Cult of the Saints, and Holiness in the Medieval World
 Thursday, May 9, 3:30 PM, session 127, co-sponsored by the Hagiography Society. In-person, Sangren 3110.
