@@ -6,8 +6,9 @@ title: "EPISCOPUS: "
 
 ### Recent news
 
-- Join [Episcopus at Kalamazoo and Leeds 2022](/news)
+- Join [Episcopus at Kalamazoo and Leeds 2024](/news)
 - Want a cute little EPS sticker or coffee mug? Visit our [EPISCOPUS store](https://www.redbubble.com/people/epssociety/); the proceeds help us feed scholars with limited funds at our annual Council meeting.
+- Follow us on social media: [Facebook](https://www.facebook.com/EpiscopusSociety) and on X/Twitter @EPISCOPUSorg .
 
 [Become a Member](https://docs.google.com/forms/d/1azz1dyCwj6GlNZrg3zXIEzhUEV2KUf1FTYAQf-YGZXc/viewform){:.myButton}
 
@@ -27,6 +28,6 @@ Our [bylaws](/bylaws/) are available online. Any other questions about Episcopus
 - **Communications Officer:**  Benjamin Bertrand (2022-2025)
 - **Councilors:**
 - Immediate Past President Council Position (2022-2025): Evan Gatti 
-- Council Position A (2021-2024): Benjamin Wand
+- Council Position A (2024-2027): Neslihan Şenocak
 - Council Position B (2022-2025): VACANT
 - Council Position C (2023-2026): Andrew Reeves
