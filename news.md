@@ -6,25 +6,25 @@ permalink: /news
 ## Call for Papers: Episcopus at (ICMS) Kalamazoo 2025
 Episcopus is excited to be organizing and co-organizing a strong variety of sessions for ICMS 2025. All those making contributions to sessions of papers or roundtables at the Congress need to make proposals in the Confex system (the conference portal) by the deadline of Sunday, Sept. 15, 2024. The general call for papers is available [here](https://wmich.edu/medievalcongress/call), but the specific links for individual sessions are also given below.
 ### Bishops and Secular Clergy of Medieval Italy (in-person)
-[Submit proposals here](https://icms.confex.com/icms/2025/paper/papers/index.cgi?sessionid=6148)
+[Submit proposals here](https://icms.confex.com/icms/2025/paper/papers/index.cgi?sessionid=6148)  
 Questions? Contact Neslihan Senocak at ns2495@columbia.edu and CC William Campbell at whc7@pitt.edu.
 ### Bishops and Secular Clergy of Medieval Italy (virtual)
 Email your paper title and extract in a single email to the co-organizers, using the following addresses: episcopussociety@gmail.com; whc7@pitt.edu; and ns2495@columbia.edu, and please do so as early as possible. To secure a virtual or hybrid session, we first need to demonstrate to the conference committee that there is demand in the form of sound proposals. Once we have secured the virtual or hybrid session, we will let you know, and you will then need to submit through the conference portal by the deadline of September 15.
 ### Bishops, Clerics, and Digital Medievalists (A Roundtable) (hybrid)
-We are excited to offer this session in collaboration with [Digital Medievalist](https://digitalmedievalist.org/).
-[Submit proposals here](https://icms.confex.com/icms/2025/round/papers/index.cgi?sessionid=6074)
+Co-sponsored with [Digital Medievalist](https://digitalmedievalist.org/).
+[Submit proposals here](https://icms.confex.com/icms/2025/round/papers/index.cgi?sessionid=6074)  
 Questions? Contact Kalani Craig at craigkl@indiana.edu.
 ### The Church in the Fourteenth Century (in person)
-Co-sponsored with [The 14th-Century Society](https://fourteenthcenturysociety.celestiscuria.org/)
-[Submit proposals here](https://icms.confex.com/icms/2025/paper/papers/index.cgi?sessionid=6350)
+Co-sponsored with [The 14th-Century Society](https://fourteenthcenturysociety.celestiscuria.org/)  
+[Submit proposals here](https://icms.confex.com/icms/2025/paper/papers/index.cgi?sessionid=6350)  
 Questions? Contact organizer Sarah Ifft Decker at ifftdeckers@rhodes.edu.
 ### The Institutional Church in Medieval Iberia (in person)
-Co-sponsored with the [American Academy of Research Historians of Medieval Spain (AARHMS)](https://aarhms.wildapricot.org/)
-[Submit proposals here](https://icms.confex.com/icms/2025/paper/papers/index.cgi?sessionid=6132)
+Co-sponsored with the [American Academy of Research Historians of Medieval Spain (AARHMS)](https://aarhms.wildapricot.org/)  
+[Submit proposals here](https://icms.confex.com/icms/2025/paper/papers/index.cgi?sessionid=6132)  
 Questions? Contact Kyle Lincoln at kyle.c.lincoln@gmail.com.
 ### The Investiture Controversy: A Reacting to the Past Game in Development (in person, workshop)
-Co-sponsored with [The Reacting Consortium](https://reactingconsortium.org/)
-Those contributing to a workshop do not submit through the conference portal; rather, they should email the organizer at whc7@pitt.edu, cc'ing episcopussociety@gmail.com.
+  Co-sponsored with [The Reacting Consortium](https://reactingconsortium.org/)
+  Those contributing to a workshop do not submit through the conference portal; rather, they should email the organizer at whc7@pitt.edu, cc'ing episcopussociety@gmail.com.
 ---
 ## Join Episcopus at (ICMS) Kalamazoo and (IMC) Leeds in 2024 
 We welcome members old and new, and members-yet-to-be, to the following conference events in this our 20th anniversary year.
