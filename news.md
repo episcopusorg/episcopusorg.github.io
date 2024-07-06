@@ -22,9 +22,9 @@ Questions? Contact organizer Sarah Ifft Decker at ifftdeckers@rhodes.edu.
 Co-sponsored with the [American Academy of Research Historians of Medieval Spain (AARHMS)](https://aarhms.wildapricot.org/)  
 [Submit proposals here](https://icms.confex.com/icms/2025/paper/papers/index.cgi?sessionid=6132)  
 Questions? Contact Kyle Lincoln at kyle.c.lincoln@gmail.com.
-### The Investiture Controversy: A Reacting to the Past Game in Development (in person, workshop)
-  Co-sponsored with [The Reacting Consortium](https://reactingconsortium.org/)
-  Those contributing to a workshop do not submit through the conference portal; rather, they should email the organizer at whc7@pitt.edu, cc'ing episcopussociety@gmail.com.
+### The Investiture Controversy: A Reacting to the Past Game in Development (in person, workshop)  
+Co-sponsored with [The Reacting Consortium](https://reactingconsortium.org/)  
+Those contributing to a workshop do not submit through the conference portal; rather, they should email the organizer at whc7@pitt.edu, cc'ing episcopussociety@gmail.com.
 ---
 ## Join Episcopus at (ICMS) Kalamazoo and (IMC) Leeds in 2024 
 We welcome members old and new, and members-yet-to-be, to the following conference events in this our 20th anniversary year.
