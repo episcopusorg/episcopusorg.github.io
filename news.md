@@ -11,7 +11,7 @@ Questions? Contact Neslihan Senocak at ns2495@columbia.edu and CC William Campbe
 ### Bishops and Secular Clergy of Medieval Italy (virtual)
 Email your paper title and extract in a single email to the co-organizers, using the following addresses: episcopussociety@gmail.com; whc7@pitt.edu; and ns2495@columbia.edu, and please do so as early as possible. To secure a virtual or hybrid session, we first need to demonstrate to the conference committee that there is demand in the form of sound proposals. Once we have secured the virtual or hybrid session, we will let you know, and you will then need to submit through the conference portal by the deadline of September 15.
 ### Bishops, Clerics, and Digital Medievalists (A Roundtable) (hybrid)
-Co-sponsored with [Digital Medievalist](https://digitalmedievalist.org/).
+Co-sponsored with [Digital Medievalist](https://digitalmedievalist.org/).  
 [Submit proposals here](https://icms.confex.com/icms/2025/round/papers/index.cgi?sessionid=6074)  
 Questions? Contact Kalani Craig at craigkl@indiana.edu.
 ### The Church in the Fourteenth Century (in person)
