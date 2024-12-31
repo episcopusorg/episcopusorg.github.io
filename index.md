@@ -4,6 +4,10 @@ permalink: /
 title: "EPISCOPUS: "
 ---
 
+### Proposed changes to By-laws
+
+Our By-laws have not been revised or amended in more than a decade. A series of proposals to amend the Society's By-laws, recommended by the current President, can be seen [here](/bylaws-proposed-changes-2025/). By posting these here on December 31st, 2024, the President is opening a comment period. The comments of Members, Councilors, and Officers are invited throughout the month of January 2025, after which revisions to the proposals may be made based on your comments. Comments should be sent to the Society's email address, episcopussociety@gmail.com. The goal is to vote on the revisions at the May 2025 business meeting at the ICMS in Kalamazoo.
+
 ### Recent news
 
 - Join [Episcopus at Kalamazoo and Leeds 2024](/news)
