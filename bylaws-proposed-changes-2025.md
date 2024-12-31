@@ -1,7 +1,9 @@
 ---
 layout: default
-permalink: bylaws-proposed-changes-2025.html
+permalink: bylaws-proposed-changes-2025/
 title: "Proposed Changes to Bylaws 2025"
+date: 2024-12-31
+categories: about
 ---
 
 ### Proposed Changes to EPISCOPUS Bylaws 2025
