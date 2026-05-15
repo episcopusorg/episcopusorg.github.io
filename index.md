@@ -25,9 +25,12 @@ Our [bylaws](/bylaws/) are available online. Any other questions about Episcopus
 - **President:** Kyle Lincoln (2025-2028), episcopussociety@gmail.com
 - **Vice-President:** Neslihan Şenocak (2025-2028)
 - **Secretary:** Evan A. Gatti (2025-2028)
-- **Communications Officer:**  Benjamin Bertrand (2022-2025)
+- **Communications Officer:**  Benjamin Bertrand (2025-2028)
 - **Councilors:**
 - Immediate Past President Council Position (2025-2028): William Campbell 
 - Council Position A (2025-2027): David Defries
 - Council Position B (2025-2028): Deborah Deliyannis
 - Council Position C (2024-2026): Andrew Reeves
+- Council Position D (2025-2028): Burt Westermaier
+- Council Position E ( ):
+- Council Position F ( ):
