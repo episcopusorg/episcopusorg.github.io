@@ -32,5 +32,5 @@ Our [bylaws](/bylaws/) are available online. Any other questions about Episcopus
 - Council Position B (2025-2028): Deborah Deliyannis
 - Council Position C (2024-2026): Andrew Reeves
 - Council Position D (2025-2028): Burt Westermaier
-- Council Position E ( ):
-- Council Position F ( ):
+- Council Position E (2026-2029): John Ott
+- Council Position F (2026-2029): Frances Eshleman
